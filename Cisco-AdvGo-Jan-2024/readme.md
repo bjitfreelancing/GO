@@ -1,20 +1,9 @@
 # Go Advanced
 
-## Magesh Kuppan
-
-## Schedule
-- Commence      : 9:00 AM
-- Tea Break     : 10:30 AM (20 mins)
-- Lunch Break   : 12:30 PM (1 hour)
-- Tea Break     : 3:00 PM (20 mins)
-- Wind up       : 5:00 PM
-
-## Methodology
-- No powerpoint
-- Discussion & Code
+## Biswajit Mandal
 
 ## Repository
-- https://github.com/tkmagesh/cisco-advgo-jan-2024
+- https://github.com/bjitfreelancing/GO/tree/main/Cisco-AdvGo-Jan-2024
 
 ## Basics
 - Data Types, Language Constructs
